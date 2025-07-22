@@ -22,7 +22,7 @@
     "@extraterm/extraterm-extension-api": "0.15.0",
     "@types/lodash-es": "4.17.6",
     "@types/node": "^16.4.0",
-    "esbuild": "^0.15.5",
+    "esbuild": "^0.25.8",
     "eslint": "8.13.0",
     "eslint-config-extraterm": "1.0.0",
     "eslint-plugin-unicorn": "42.0.0",
